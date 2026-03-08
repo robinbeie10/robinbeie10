@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, My Name is Robin 👋
 
-<!--
-**robinbeie10/robinbeie10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+# 📮 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Robin and I am a Computer Science student!
+
+```python
+class Ahmad:
+  def __init__(self):
+    self.age = 20
+    self.hobbies = ["Coding", "Soccer", "Fortnite"]
+    self.school = "RWTH Aachen University"
+    self.email = "robin.beie@gmail.com"
+```
+
+💻 I am passionate about building reliable distributed systems and ML infrastructure.
+
+
+# 👻 Tech Stack
+
+### Languages
+[![Go](https://skillicons.dev/icons?i=go&theme=dark)](https://skillicons.dev) [![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
