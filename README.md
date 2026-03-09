@@ -15,7 +15,7 @@ class Ahmad:
     self.email = "robin.beie@gmail.com"
 ```
 
-💻 I am passionate about building reliable distributed systems and ML infrastructure.
+💻 I am passionate about building reliable distributed systems and ML infrastructure. Currently I am learning SQL (SQLite).
 
 
 # 👻 Tech Stack
