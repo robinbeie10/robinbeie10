@@ -7,7 +7,7 @@
 My name is Robin and I am a Computer Science student!
 
 ```python
-class Ahmad:
+class Robin:
   def __init__(self):
     self.age = 20
     self.hobbies = ["Coding", "Soccer", "Fortnite"]
